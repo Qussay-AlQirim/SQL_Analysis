@@ -26,18 +26,7 @@ display the count of employees this manager who has the most employees reporting
 managing.
 9. Write a SQL statement to output four columns: EmployeeID, Employee Name, the id of the
 aircraft they are certified to fly, and Duration since certified. Duration indicates exactly how long the
-employee has been certified in years and months. Your output should be formatted like the example
-output table below.
-NOTE: This incomplete output has been generated using some of the sample data in the test database
-provided to you.
-EmployeeID Employee Name Aircraft ID Duration Since Certified
-11564812 John Williams 1 20 Year(s) 8 Month(s)
-11564812 John Williams 2 11 Year(s) 6 Month(s)
-90873519 Elizabeth Taylor 10 11 Year(s) 6 Month(s)
-141582651 Mary Johnson 11 7 Year(s) 4 Month(s)
-141582651 Mary Johnson 15 7 Year(s) 3 Month(s)
-142519864 Betty Adams 1 19 Year(s) 7 Month(s)
-142519864 Betty Adams 12 6 Year(s) 11 Month(s)
+employee has been certified in years and months.
 10. Write a SQL statement to output two columns, PassengerID and Total Price. The PassengerID
 is the identifier for a passenger who has booked one or many seats. The Total Price is the cumulated
 price that each passenger must pay for the seat/s they have booked. When calculating the Total Price,
